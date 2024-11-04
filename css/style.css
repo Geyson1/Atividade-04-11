@@ -1,0 +1,63 @@
+html {
+    font-family: helvetica;
+    background-color: purple;
+}
+.container  {
+    max-width: 1100px;
+    background-color: #ebd8d8;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bold2 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.maintitle {
+    text-align: center;
+    font-size: 40px;
+    color: yellow;
+    text-shadow: 3px 3px red;
+}
+
+.imagem {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.imagem2 {
+    text-align: right;
+    margin-top: 30px;
+}
+
+.texto {
+    font-size: 15px;
+    padding: 5px;
+    border-bottom: 2px dotted grey;
+}
+
+.historia {
+    font-size: 15px;
+    padding: 5px;
+    border-bottom: 2px dotted grey;
+}
+
+.personagens {
+    font-size: 15px;
+    padding: 5px;
+    border-bottom: 2px solid grey;
+}
+
+.maisinfo {
+    font-style: italic;
+    font-size: 12px;
+    padding: 5px;
+}
+
+
